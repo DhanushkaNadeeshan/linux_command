@@ -1,6 +1,4 @@
-# linux command
-
-install node js for parrot os
+# install node js for parrot os
 
 sudo apt install nodejs npm -y
 
@@ -12,3 +10,4 @@ sudo n stable
 
 node --version
 
+ref : [statck overflow](https://stackoverflow.com/questions/8191459/how-do-i-update-node-js)
